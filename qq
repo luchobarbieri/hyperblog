@@ -1,0 +1,136 @@
+[33mcommit 3462706f0c322c4990381fbdd96b695a9e1dac62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: luciano barbieri <luchobarbieri@gmail.com>
+Date:   Mon Jan 20 20:13:25 2020 -0300
+
+    Agregando alias
+
+[33mcommit b96311e396278dcb040cabd1b286e931858b70f7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: luciano barbieri <luchobarbieri@gmail.com>
+Date:   Sun Jan 19 18:48:52 2020 -0300
+
+    mi primer commit
+
+[33mcommit ddb0572e57a3ddf58dd38e498b848e7fc1000ee4[m[33m ([m[1;33mtag: v0.1[m[33m, [m[1;31morigin/header[m[33m, [m[1;31morigin/footer[m[33m, [m[1;31morigin/cabecera[m[33m, [m[1;32mheader[m[33m, [m[1;32mfooter[m[33m, [m[1;32mcabecera[m[33m)[m
+Author: luciano barbieri <luchobarbieri@gmail.com>
+Date:   Sat Jan 18 18:43:55 2020 -0300
+
+    una version del hyperblog
+
+[33mcommit 8459282ae54e5c830c8b57ef8b97e562ffcbee56[m
+Author: luchobarbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 18 16:58:10 2020 -0300
+
+    Cambio de titulo
+    
+    porque puedo
+
+[33mcommit 2558185173d8fbeedb9f9beb4f4e8b06b0809ea5[m
+Merge: 9af5f0f 1f7f991
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 18 16:52:04 2020 -0300
+
+    Merge branch 'master' of https://github.com/luchobarbieri/hyperblog
+
+[33mcommit 1f7f991928f20dde4dcf94b77f4bf4a1703f99f6[m
+Author: luchobarbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 18 16:43:51 2020 -0300
+
+    Initial commit
+
+[33mcommit 9af5f0f9608ae917fcc7eeb434ac59f522bfe2ff[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 01:10:26 2020 -0300
+
+    texto rojo
+
+[33mcommit 9c1b03dce6dabd54e11a56d34b4121268c74676f[m
+Merge: b9d4f86 a893a37
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 01:06:24 2020 -0300
+
+    solucion conflicto
+
+[33mcommit b9d4f8684fad3461c11b644b11de1a1db8adfa0e[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 01:01:20 2020 -0300
+
+    ctexto azul y suscribete
+
+[33mcommit a893a3735b9c5cf9e6b29071d471550810b729f4[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 00:59:06 2020 -0300
+
+    modifique la cabecera y color de texto
+
+[33mcommit 500ef33bbdccb719131060e998656dffebf9250f[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 00:53:21 2020 -0300
+
+    agrego de parrafo blog forma de...
+
+[33mcommit b249c175d427f959ef9daa22c4b1df6c32337b4f[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 00:47:44 2020 -0300
+
+    ultimo commit?
+
+[33mcommit 06b5278ad77b3786ca7d9f16e0c50d0012730ca1[m
+Merge: 8014f2b 8da8992
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 00:35:23 2020 -0300
+
+    Merge branch 'cabecera'
+
+[33mcommit 8014f2ba8b87d4e41f03cab6389e504b28c9a517[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Thu Jan 9 00:32:58 2020 -0300
+
+    cambio de fuente
+
+[33mcommit 1570b3a9357da23b1c2cc973eaeb5279c124ea72[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Wed Jan 8 21:53:51 2020 -0300
+
+    segunda rama
+
+[33mcommit 8da8992422b9fca1ddddbddeab8fbe0aae78cd52[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Wed Jan 8 21:49:28 2020 -0300
+
+    finalizada la cabecera
+
+[33mcommit 48985d08b626934d13a4a6ea809ee3815f432500[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Wed Jan 8 21:26:26 2020 -0300
+
+    commit al master del blogspot
+
+[33mcommit d150dbdda09931854d2c7cac9a4a12ce5ba1524b[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Mon Jan 6 20:10:48 2020 -0300
+
+    manana
+
+[33mcommit f4521d68b733d31a792c4e0aca3e85a289c803ff[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 4 20:01:26 2020 -0300
+
+    cambio de vida
+
+[33mcommit 8fb252b6401bc72331f7a91f248a95f0c6662fe3[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 4 19:57:17 2020 -0300
+
+    proyecto html css
+
+[33mcommit e0daa4919313fe6df1ea5bdc957c58c1a3980d1e[m[33m ([m[1;33mtag: v0.01[m[33m)[m
+Author: luciano barbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 4 19:16:12 2020 -0300
+
+    cambios de edad
+
+[33mcommit 014831bff572bb4befff00c29c529db3a17ca41e[m
+Author: luchobarbieri <53586630+luchobarbieri@users.noreply.github.com>
+Date:   Sat Jan 4 19:10:14 2020 -0300
+
+    este es el primer comit del archivo
